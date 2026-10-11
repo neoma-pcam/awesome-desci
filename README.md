@@ -118,6 +118,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Molecule DAO](https://www.molecule.to/)|Decentralized Biotech / Biopharma, NFTs, Decentralized Funding, Blockchain protocols|Europe
 [MoonDAO](https://www.moondao.com/)[🌐](https://desci.world/project/63891afc51a8d557291808b3)| Science DeFi, Philanthropy, Ecosystems|Metaverse
 [Mushroom Protocol](https://mushroomprotocol.io)| DeFi, Philanthropy, Ecosystems|Metaverse
+[NEOMA P-CAM](https://github.com/neoma-pcam/pcam) - Deterministic sub-millisecond physical solver with 96-bit silicon SEAL attestation. Installable via `pip install neoma-pcam`.
 [NeuraDAO](https://neuradao.to/)|Decentralized Funding, Blockchain protocols, Decentralized biotech|Metaverse
 [Nevermined](https://nevermined.io/)[🌐](https://desci.world/project/64637c971603fe267bfe7512)|Decentralized Computing, Ecosystems, NFTs|Europe
 [New Atlantis](https://newatlantis.io/)[🌐](https://desci.world/project/635b54710b57f22ac9a041d8)|Decentralized Biotech / Biopharma, Data Storage, Science DeF, Ocean Restoration|North America
