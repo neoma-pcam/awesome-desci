@@ -118,6 +118,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Molecule DAO](https://www.molecule.to/)|Decentralized Biotech / Biopharma, NFTs, Decentralized Funding, Blockchain protocols|Europe
 [MoonDAO](https://www.moondao.com/)[🌐](https://desci.world/project/63891afc51a8d557291808b3)| Science DeFi, Philanthropy, Ecosystems|Metaverse
 [Mushroom Protocol](https://mushroomprotocol.io)| DeFi, Philanthropy, Ecosystems|Metaverse
+[NEOMA P-CAM](https://github.com/neoma-pcam/pcam) - Deterministic sub-millisecond physical solver with 96-bit silicon SEAL attestation. Installable via `pip install neoma-pcam`.
 [NeuraDAO](https://neuradao.to/)|Decentralized Funding, Blockchain protocols, Decentralized biotech|Metaverse
 [Nevermined](https://nevermined.io/)[🌐](https://desci.world/project/64637c971603fe267bfe7512)|Decentralized Computing, Ecosystems, NFTs|Europe
 [New Atlantis](https://newatlantis.io/)[🌐](https://desci.world/project/635b54710b57f22ac9a041d8)|Decentralized Biotech / Biopharma, Data Storage, Science DeF, Ocean Restoration|North America
@@ -246,7 +247,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 1. IP-NFT | Mint intellectual property as an NFT | [GitHub](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
 2. PLEX | Run scientific workflows on decentralized compute | [GitHub](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
 3. INNBC DApp | Record biomedical data on BNB Smart Chain blockchain for proof-of-authorship/validity/creation | (https://database.innovativebioresearch.com/)
-
+4. [NEOMA P-CAM]- Deterministic sub-millisecond physical solver with 96-bit silicon SEAL attestation. Installable via `pip install neoma-pcam`.(https://github.com/neoma-pcam/pcam) 
 ---
   
 ## Articles
